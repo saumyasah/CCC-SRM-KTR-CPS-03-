@@ -1,0 +1,7 @@
+
+//Python 3
+n=int(input())
+k=input().split()
+k=[int(i) for i in k]
+k.sort(reverse=True)
+print(k[0]*k[1]*k[2])
