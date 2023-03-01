@@ -1,1 +1,1 @@
-# CCC-SRM-KTR-CPS-03-
+# Hackerrank Solutions
